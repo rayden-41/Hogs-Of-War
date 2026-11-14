@@ -196,4 +196,4 @@ This repository serves as the official landing page for Hogs of War. The softwar
 **Get the most recent version of Hogs of War today!**
 
 ---
-**Last updated:** 2026-11-13 21:14:24 UTC
+**Last updated:** 2026-11-14 02:00:01 UTC
